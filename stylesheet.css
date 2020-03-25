@@ -46,13 +46,9 @@ line-height:22px;
 {
 position:absolute;
 top:100%;
-<<<<<<< HEAD
 left:70%;
-=======
-left:50%;
->>>>>>> f77db406ad8c8f42a34f3df6549489fffd0ee50b
-transform:translate(-50%,-50%);
-width:900px;
+transform :translate(-50%,-50%);
+width:600px;
 padding:30px;
 background:pink;
 box-sizing:border-box;
