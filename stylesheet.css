@@ -45,10 +45,10 @@ line-height:22px;
 .container
 {
 position:absolute;
-top:90%;
-left:60%;
+top:100%;
+left:70%;
 transform:translate(-50%,-50%);
-width:800px;
+width:900px;
 padding:30px;
 background:pink;
 box-sizing:border-box;
